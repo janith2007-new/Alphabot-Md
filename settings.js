@@ -48,7 +48,7 @@ global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = '© 🍃⃝⃕𝙈ᴀ͢ғɪͥʏᴀͣᴡͫʟᴇ:𝘴𝘩𝘢𝘨𝘨𝘺☜⃯™᭄' //sticker wm ubah
-global.author = '🅼ᴀͭғɪͪʏ͢ᴀͤᴠᴇ͡✬͜𝙎𝙃𝘼𝙂𝙂𝙔🌙⃯™᭄🅼ᴀͭғɪͪʏ͢ᴀͤᴠᴇ͡✬͜𝙎𝙃𝘼𝙂𝙂𝙔🌙⃯™᭄' //sticker wm ganti nama kalian
+global.author = '🅼ᴀͭғɪͪʏ͢ᴀͤᴠᴇ͡✬͜𝙎𝙃𝘼𝙂𝙂𝙔🌙⃯™᭄🅼ᴀͭғɪͪʏ͢ᴀͤᴠᴇ͡✬͜𝙎𝙃𝘼𝙂𝙂𝙔u🌙⃯™᭄' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
@@ -130,11 +130,7 @@ global.mess = {
    private: 'only🙂 Private !',
    bot: 'bot🪄',
    errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
-   wait: ':     .ılı.——Volume——.ılı.
-
-:    ▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █
-
-: Min- – – – – – – – – -●Max*',
+   wait: ':     .ılı.——Volume——.ılı.',
    lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
    example1: 'Welcome @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
